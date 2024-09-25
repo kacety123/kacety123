@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kris
 -     Pardon the empty-ness and ill-completeness of my github as I only just started working on some projects and experimenting on a personal development level recently. Plans for personal website hosted via gitpages are in the works!
+- Visit the progress at #https://kacety123.github.io/kthode_site/
 - 👀 I’m interested in ...
 -     Software development/engineering, fullstack. Data science, database management, project management, people leadership, technical training, and controller engineering.
 - 🌱 I’m currently learning ...
